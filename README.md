@@ -1,1 +1,1 @@
-# ai-ancient-greek-music-generation
+# AI for Recreating Homeric Performances and Ancient Greek Music
