@@ -2,3 +2,8 @@ node_modules/
 dist/
 .env
 .DS_Store
+data/raw/
+data/*.zip
+!data/splits.json
+!data/README.md
+!data/download_data.sh
